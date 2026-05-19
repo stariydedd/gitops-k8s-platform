@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: ghcr.io/stariydedd/gitops-k8s-platform
-  tag: "eadf3db"
+  tag: "4b0a731"
   pullPolicy: Always
 
 service:
